@@ -17,7 +17,7 @@ This project uses a Jupyter Notebook in Jupyter Lab to analyze the stock perform
 
 ---
 
-# Installation
+## Installation
 
 
 ---
