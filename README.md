@@ -1,8 +1,8 @@
 # IPOArbitrage
 
-In this application we will analyze stock performance from 5 companies that recently went public along over a 30 day period. We will calculate their daily returns, ......  In addition to this we will compare 5 currencies to determine if arbitrage exists for the same 30 day period. If arbitrage does exist we will determine which companies offer the best opportunity for foreign investors from those countries. An interactive user application will be able to prompt users to select which company and currency they would be interested to invest in and advise whether or not it is worth it to invest in that company. 
-
 ![](Images/IPO_arbitrage_image.jpg)
+
+In this application we will analyze stock performance from 5 companies that recently went public along over a 30 day period. We will calculate their daily returns, cumulative returns, and variance of each stock. In addition to this we will compare 5 currencies to determine if arbitrage exists for the same 30 day period. If arbitrage does exist we will determine which companies offer the best opportunity for foreign investors from those countries. An interactive user application will be able to prompt users to select which company and currency they would be interested to invest in and advise whether or not it is worth it to invest in that company. 
 
 ---
 
@@ -14,6 +14,10 @@ This project uses a Jupyter Notebook in Jupyter Lab to analyze the stock perform
 - Path: to extract and read the data from the CSV files using the file paths.
 - Plotly Express: to create interactive maps for our geospatial data.
 - PyViz & hvPlot: to create interactive data visualizations that are visually pleasing to the audience.
+
+---
+
+## Installation
 
 
 ---
