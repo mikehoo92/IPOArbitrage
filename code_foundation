@@ -1,0 +1,126 @@
+#Code for Naming Euro
+eu= Euro
+print(eu)
+#Code for naming Lebanese Pound
+lp= Lebanese Pound
+print(lp)
+#Code for naming Brazillian Rial
+br= Brazailian Rial
+print(br)
+#Code for naming Japanese Yen
+jy= Japanese Yen
+print(jy)
+#Code for naming Chilean Peso
+cp= Chilean Peso
+print(cp)
+#Code for naming Snowflake
+Snow= Snowflake
+print(snow)
+#Code for naming UpStart
+upst = UpStart
+print(upst)
+#Code for naming Porch Group
+prch = Porch Group
+print (prch)
+#Code for naming Door Dash
+dd= Door Dash
+print(dd)
+#Code for naming Air BnB
+abnb = Air BnB
+# Code for USD
+usd= US Dollar 
+print(usd)
+#Code for currency Euro/Price of currency to USD
+adjusted_price_eu =  usd/eu 
+print (adjusted_price_eu)
+#Code for currency Lebanese Pound/Price of currency to USD
+adjusted_price_lp = usd/lp
+print(adjusted_price_lp)
+#Code for currency Brazillian Rial/Price of currency to USD
+adjusted_price_br = usd/br
+print (adjusted_price_br)
+#Code for currency Japanese Yen/Price of currency to USD
+adjusted_price_jy = usd/jy
+print(adjusted_price_jy)
+#Code for currency Chilean Pesos/Price of currency to USD
+adjusted_price_cp =  usd/cp
+print(adjusted_price_cp)
+#Code Inital Price of Snowflake
+snow_inital_price = .loc[]
+print(snow_initial_price)
+#Code Intial Price of Upstart
+upst_inital_price = .loc[]
+print(upst_initial_price)
+#Code Initial Price of Porch Group
+prch_initial_price = .loc[]
+print(prch_initial_price)
+#Code Initial Price of Door Dash
+dash_intial_price = .loc[]
+print(dash_initial_price)
+#Code Intinal Price of Air BnB
+abnb_intial_price = .loc[]
+print (abnb_intitial_price)
+#Code 30 day price Snowflake
+snow_30_day_price = .loc[]
+print(snow_30_day_price)
+#Code 30 day  price Porch
+prch_30_day_price = .loc[]
+print (prch_30_day_price)
+#Code 30 day price Upstart Holding
+upst_30_day_price = .loc[]
+print (upst_30_day_price)
+#Code 30 day price Door Dash
+dash_30_day_price = .loc[]
+print (dash_30_day_price)
+#Code current price Air BnB
+abnb_30_day_price = .loc[]
+print (abnb_30_day_price)
+
+#Code for checking it there is arbitrage. 
+    if
+    print (f"This investment would be beneficial because it takes advantages of arbitrage")
+    else
+    print (f"This investment would not take advantage of any arbitrage")
+
+#Conditional for arbitrage to invest
+    if
+    
+    else
+
+# 10 days
+# 20 days 
+# Loc/ For Loop/iterator to grab values one at a time. or index
+
+
+
+#did curremcy devalue or appreciate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
