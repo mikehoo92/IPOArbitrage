@@ -59,6 +59,7 @@ import holoviews as hv
 from holoviews import opts
 import questionary
 ```
+![](Images/Cumlative_Returns.png)
 
 ---
 
