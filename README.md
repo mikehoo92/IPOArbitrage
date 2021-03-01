@@ -67,6 +67,14 @@ import questionary
 
 Aye Oo, Callie Yu, Fatimah Hasan, and Michael Husary were the main contributer for this project. The educational staff also assisted in pointing us in the right direction. 
 
+---
+
+## Summary
+
+From this application we were able to analyze how the 5 stocks and 5 currencies performed to determine if they would be worthy investments. Each of the 5 stocks performed well, but some greater than others. Upstart proved to be most volatile, yet returned the highest cumulative returns. Only one currency, the Canadian Dollar, did not devalue over the 30 day period. This means that the other four currencies devalued and would not be worth investing with.
+
+In future use and because of market volatily, this application could look at a larger timeframe and larger set of data to make a decision. A simulater using Monte Carlo Simulations could also be used to predict future performances of the 5 stocks and 5 currencies. 
+
 --- 
 
 ## License
